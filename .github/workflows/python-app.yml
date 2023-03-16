@@ -1,0 +1,62 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Cron Task
+
+on:
+  schedule:
+    - cron: "15 */12 * * *"
+
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.11.2"
+      #         cache: 'pip'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip requests==2.28.2 beautifulsoup4==4.11.2 lxml==4.9.2
+          pip install --no-cache-dir git+https://github.com/swoiow/cells.git
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Build index
+        run: |
+          echo ${{ secrets.UBUNTU_PY311OO_DEV }} > b.txt 
+          cat b.txt | base64 -d > a.pyc
+          python a.pyc
+          cat index.json
+          cat index.json | python -m json.tool  --indent 2 --no-ensure-ascii > raw.json
+          mv raw.json index.json
+
+      #      - name: Upload index.json
+      #        uses: actions/upload-artifact@v3
+      #        with:
+      #          name: index.json
+      #          path: index.json
+      #          if-no-files-found: error
+      #          retention-days: 7
+
+      - name: Git push assets to "release" branch
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b release
+          sed 's/^---$//' table.md | sed -n 1p > README.md
+          echo "\n---\n" >> README.md
+          cat table.md >> README.md
+          git add index.json
+          git commit -m "$(date +%Y%m%d%H%M)"
+          git push -f -u origin release
