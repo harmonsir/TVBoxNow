@@ -43,7 +43,7 @@ jobs:
 
       - name: Generate files
         run: |
-          sed 's/^---$//' RELEASE_TEMPLATE.md | sed -n 1p > README.md
+          sed 's/(^---).*//' RELEASE_TEMPLATE.md > README.md
           cat table.md >> README.md
           mkdir -p tmp
           cp index.json README.md tmp
@@ -51,6 +51,7 @@ jobs:
       - uses: actions/checkout@v3
         with:
           ref: release
+          clean: false
       - name: Git push assets to "release" branch
         run: |
           git config --local user.name "github-actions[bot]"
