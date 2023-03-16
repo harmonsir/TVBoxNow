@@ -41,22 +41,21 @@ jobs:
           cat index.json | python -m json.tool  --indent 2 --no-ensure-ascii > raw.json
           mv raw.json index.json
 
-      #      - name: Upload index.json
-      #        uses: actions/upload-artifact@v3
-      #        with:
-      #          name: index.json
-      #          path: index.json
-      #          if-no-files-found: error
-      #          retention-days: 7
+      - name: Generate files
+        run: |
+          sed 's/^---$//' RELEASE_TEMPLATE.md | sed -n 1p > README.md
+          cat table.md >> README.md
+          mkdir -p tmp
+          cp index.json README.md tmp
 
+      - uses: actions/checkout@v3
+        with:
+          ref: release
       - name: Git push assets to "release" branch
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -b release
-          sed 's/^---$//' table.md | sed -n 1p > README.md
-          echo "\n---\n" >> README.md
-          cat table.md >> README.md
-          git add index.json
+          mv tmp/index.json tmp/README.md .
+          git add index.json README.md
           git commit -m "$(date +%Y%m%d%H%M)"
           git push -f -u origin release
