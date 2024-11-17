@@ -9,17 +9,17 @@
 ---
 |Channel -> |香港 TV 劇集專區|
 |---|---|
-|[更新第09集][重溫](TVB)《公私三文治》 [第01~09集][2024-11-15][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7068053-1-1.html|
-|[更新第15集] (翡翠台)《黑色月光》[第01~15集]【粵語中字】 [H.265(1080P)+MP4-720P]|https://www.tvboxnow.com/thread-7038061-1-1.html|
 |[更新第20集] (翡翠台)《巾幗梟雄之懸崖》[第01~20集]【粵語中字】 [H.265(1080P)+MP4-720P]|https://www.tvboxnow.com/thread-7032499-1-1.html|
-|[更新第2424集][Jade]《愛回家之開心速遞 Lo and Behold》[第2400~2424集]【粵語中字】[HDTV-MP4-720P]|https://www.tvboxnow.com/thread-7037057-1-1.html|
-|[更新EP07][重溫] (翡翠台)《無心法師》- EP01~07  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7073589-1-1.html|
-|[更新第06集][重溫](TVB)《純熟意外》 [第01~06集][2024-11-15][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7075301-1-1.html|
-|[更新第35集][重溫](TVB)《鹿鼎記》[第01~35集][2024-11-15][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7019188-1-1.html|
-|[更新第17(FIX)+20集] (翡翠台)《玫瑰的故事》[第01~20集]【粵語中字】 [H.265(1080P)+MP4-720P]|https://www.tvboxnow.com/thread-6977956-1-1.html|
+|[更新第36集][重溫](TVB)《鹿鼎記》[第01~36集][2024-11-16][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7019188-1-1.html|
 |[更新第15(FIX)+25集] (翡翠台)《企業強人》[第01~25集]【粵語中字】 [H.265(1080P)+MP4-720P]|https://www.tvboxnow.com/thread-6968943-1-1.html|
-|[更新EP15] (香港開電視) 《但願人長久》- EP01~15  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7050382-1-1.html|
+|[更新第07集][重溫](TVB)《純熟意外》 [第01~07集][2024-11-16][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7075301-1-1.html|
+|[更新EP16] (香港開電視) 《但願人長久》- EP01~16  [2024-11-16][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7050382-1-1.html|
+|[更新第2424集][Jade]《愛回家之開心速遞 Lo and Behold》[第2400~2424集]【粵語中字】[HDTV-MP4-720P]|https://www.tvboxnow.com/thread-7037057-1-1.html|
+|[更新第15集] (翡翠台)《黑色月光》[第01~15集]【粵語中字】 [H.265(1080P)+MP4-720P]|https://www.tvboxnow.com/thread-7038061-1-1.html|
+|[更新EP07][重溫] (翡翠台)《無心法師》- EP01~07  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7073589-1-1.html|
 |[更新第05集](TVB)《廉政行動2024》[第01~05集+製作特輯][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7035339-1-1.html|
+|[更新第09集][重溫](TVB)《公私三文治》 [第01~09集][2024-11-15][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7068053-1-1.html|
+|[更新第17(FIX)+20集] (翡翠台)《玫瑰的故事》[第01~20集]【粵語中字】 [H.265(1080P)+MP4-720P]|https://www.tvboxnow.com/thread-6977956-1-1.html|
 |[更新第58集][重溫](TVB)《婆媽女婿》 [第01~58集][2024-11-01][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6900384-1-1.html|
 |[更新EP19~24] 《珠玉在側》- EP01~24  [2024-10-28][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7012470-1-1.html|
 |[更新EP20(完)][重溫] (翡翠台)《機智女法醫》- EP01~20  [2024-11-06][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7014061-1-1.html|
@@ -33,21 +33,25 @@
 
 |Channel -> |香港綜藝節目專區|
 |---|---|
-|【更新EP00】(翡翠台) 《Grand住去大阪》- EP01 [2024-11-16][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7089032-1-1.html|
-|【待播】(翡翠台) 《獎門人台慶感謝祭-2024》- EP01 [2024-11-16][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7089039-1-1.html|
+|【更新EP01】(翡翠台) 《Grand住去大阪》- EP01  [2024-11-16][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7089032-1-1.html|
+|(翡翠台) 《獎門人台慶感謝祭-2024》- EP01 [2024-11-16][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7089039-1-1.html|
 |【更新EP05】(翡翠台) 《一條麻甩在汕頭》EP01~05 [2024-11-15][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7081122-1-1.html|
 |[更新EP04][重溫] (TVB PLUS)《貧窮限制想像》- EP01~04 [2024-11-15][HDTV-MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7081212-1-1.html|
-|(翡翠台) 《一代鬼才 黃霑》EP01 [2024-11-09][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7077716-1-1.html|
-|(明珠台) 《2024英雄聯盟全球總決賽》 [2024-11-03][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7066167-1-1.html|
-|[更新EP12] (TVB PLUS)《冲遊泰國10》- EP01~12  [2024-11-15][HDTV-MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7056692-1-1.html|
-|[更新EP06] (明珠台) 《細味文明》- EP01~06  [2024-11-14][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7018136-1-1.html|
-|[更新EP06] (明珠台)《親子保育遊》- EP01~06  [2024-11-15][HDTV-MP4-720P][英語中字]|https://www.tvboxnow.com/thread-7019356-1-1.html|
+|[更新EP03] (翡翠台) 《澳門25個第一》- EP01~03 [2024-11-16][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7064919-1-1.html|
 |[更新EP05] (明珠台)《野性大草原》- EP01~05 [2024-11-15][HDTV-MP4-720P][英語中字]|https://www.tvboxnow.com/thread-7033313-1-1.html|
+|[更新EP12] (TVB PLUS)《冲遊泰國10》- EP01~12  [2024-11-15][HDTV-MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7056692-1-1.html|
+|[更新EP06] (明珠台)《親子保育遊》- EP01~06  [2024-11-15][HDTV-MP4-720P][英語中字]|https://www.tvboxnow.com/thread-7019356-1-1.html|
 |[更新EP01] (翡翠台) 《下一站出口》- EP01  [2024-11-10][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7079104-1-1.html|
-|[更新EP06] (翡翠台) 《無窮之路IV - 一帶一路》- EP01~06 + 製作特輯  [2024-11-11][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6999963-1-1.html|
-|[更新EP02] (翡翠台) 《荃頌荃盛》- EP01~02  [2024-09-09][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6948416-1-1.html|
-|[更新EP02] (翡翠台) 《自駕德島》- EP01~02 [2024-11-09][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7064951-1-1.html|
+|[更新EP02] (翡翠台) 《戰場上》- EP01~02  [2024-11-05][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7068611-1-1.html|
+|[更新EP01] (翡翠台) 《百年一金庸》- EP01  [2024-10-12][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7020977-1-1.html|
 |[更新EP01] (翡翠台)《TVB同行創新節目巡禮2025》- EP01 [2024-11-02][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7064955-1-1.html|
+|[更新EP02] (翡翠台) 《自駕德島》- EP01~02 [2024-11-09][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7064951-1-1.html|
+|[更新EP02] (翡翠台) 《美食中國 II》- EP01~02  [2024-11-10][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7065318-1-1.html|
+|[更新EP06] (翡翠台) 《無窮之路IV - 一帶一路》- EP01~06 + 製作特輯  [2024-11-11][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6999963-1-1.html|
+|[更新EP06] (明珠台) 《細味文明》- EP01~06  [2024-11-14][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7018136-1-1.html|
+|(明珠台) 《2024英雄聯盟全球總決賽》 [2024-11-03][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7066167-1-1.html|
+|(翡翠台) 《一代鬼才 黃霑》EP01 [2024-11-09][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7077716-1-1.html|
+|[更新EP02] (翡翠台) 《荃頌荃盛》- EP01~02  [2024-09-09][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6948416-1-1.html|
 |[更新EP08] (翡翠台) 《醫度講》- EP01~08  [2024-11-09][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6975400-1-1.html|
 |[更新EP08] (TVB PLUS)《直播靈接觸 S2》- EP01~08  [2024-11-12][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7041660-1-1.html|
 |[更新EP03] (翡翠台) 《中年好聲音3》- EP01~03+百強誕生  [2024-11-11][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7034833-1-1.html|
@@ -56,33 +60,30 @@
 |[更新EP10] (翡翠台) 《呃錢》- EP01~10  [2024-11-01][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7040194-1-1.html|
 |[更新EP06] (翡翠台) 《科學一眼看清》- EP01~06   [2024-11-10][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7009255-1-1.html|
 |[更新EP04] (翡翠台) 《見證香港故宮》- EP01~04  [2024-11-09][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7050415-1-1.html|
-|[更新EP01] (翡翠台) 《百年一金庸》- EP01  [2024-10-12][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7020977-1-1.html|
-|[更新EP14]【重溫】(明珠台)《我的麻煩寵物 / Embarrassing Pets》- EP01~14  [2024-11-13][HDTV-MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6904333-1-1.html|
-|[更新EP03] (明珠台) 《穹蒼下的北極 / Arctic from Above》- EP01~03  [2024-09-06][HDTV-MP4-720P][英語中字]|https://www.tvboxnow.com/thread-6924831-1-1.html|
 
 
 |Channel -> |高清世界-劇集分享|
 |---|---|
-|[更新第15集] (翡翠台)《黑色月光》[第01~15集]【粵語中字】 [H.265(1080P)+MP4-720P]|https://www.tvboxnow.com/thread-7054592-1-1.html|
 |[更新第20集] (翡翠台)《巾幗梟雄之懸崖》[第01~20集]【粵語中字】 [H.265(1080P)+MP4-720P]|https://www.tvboxnow.com/thread-7039268-1-1.html|
+|[更新第15集] (翡翠台)《黑色月光》[第01~15集]【粵語中字】 [H.265(1080P)+MP4-720P]|https://www.tvboxnow.com/thread-7054592-1-1.html|
 |[更新第2424集][Jade]《愛回家之開心速遞 Lo and Behold》[第2400~2424集]【粵語中字】[HDTV-MP4-720P]|https://www.tvboxnow.com/thread-7037061-1-1.html|
+|[更新第15(FIX)+25集] (翡翠台)《企業強人》[第01~25集]【粵語中字】 [H.265(1080P)+MP4-720P]|https://www.tvboxnow.com/thread-6978585-1-1.html|
 |[更新第17(FIX)+20集] (翡翠台)《玫瑰的故事》[第01~20集]【粵語中字】 [H.265(1080P)+MP4-720P]|https://www.tvboxnow.com/thread-6989591-1-1.html|
 |[更新第05集](TVB)《廉政行動2024》[第01~05集+製作特輯][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7035341-1-1.html|
-|[更新第15(FIX)+25集] (翡翠台)《企業強人》[第01~25集]【粵語中字】 [H.265(1080P)+MP4-720P]|https://www.tvboxnow.com/thread-6978585-1-1.html|
 |[更新第24集] (翡翠台)《法證先鋒6倖存者的救贖》[第01~24集]【粵語中字】 [H.265(1080P)+ RMVB720P+MP4-720P]|https://www.tvboxnow.com/thread-6900331-1-1.html|
 |[更新第30集] (翡翠台)《射鵰群俠傳之鐵血丹心》[第01~30集]【粵語配音中字】[H.265(1080P)+ RMVB720P+MP4-720P]|https://www.tvboxnow.com/thread-6900394-1-1.html|
 
 
 |Channel -> |高清綜藝節目區|
 |---|---|
-|【待播】(翡翠台) 《獎門人台慶感謝祭-2024》- EP01 [2024-11-16][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7089040-1-1.html|
-|【更新EP00】(翡翠台) 《Grand住去大阪》- EP01 [2024-11-16][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7089033-1-1.html|
-|(翡翠台) 《一代鬼才 黃霑》EP01 [2024-11-09][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7077717-1-1.html|
+|(翡翠台) 《獎門人台慶感謝祭-2024》- EP01 [2024-11-16][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7089040-1-1.html|
+|【更新EP01】(翡翠台) 《Grand住去大阪》- EP01  [2024-11-16][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7089033-1-1.html|
 |【更新EP05】(翡翠台) 《一條麻甩在汕頭》EP01~05 [2024-11-15][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7081124-1-1.html|
+|(翡翠台) 《一代鬼才 黃霑》EP01 [2024-11-09][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7077717-1-1.html|
 |【更新EP03】(翡翠台) 《特朗普重掌白宮》EP01~03 [2024-11-08][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7072470-1-1.html|
+|[更新EP03] (翡翠台) 《澳門25個第一》- EP01~03 [2024-11-16][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7064917-1-1.html|
 |[更新EP06] (翡翠台) 《無窮之路IV - 一帶一路》- EP01~06 + 製作特輯  [2024-11-11][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6999966-1-1.html|
 |[更新EP02] (翡翠台) 《戰場上》- EP01~02 [2024-11-05][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7068612-1-1.html|
-|[更新EP02] (翡翠台) 《澳門25個第一》- EP01~02 [2024-11-09][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7064917-1-1.html|
 |[更新EP03] (翡翠台) 《中年好聲音3》- EP01~03+百強誕生  [2024-11-11][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7034834-1-1.html|
 |[更新EP08] (翡翠台) 《醫度講》- EP01~08  [2024-11-09][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6975399-1-1.html|
 |[更新EP02] (翡翠台) 《自駕德島》- EP01~02 [2024-11-09][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7064952-1-1.html|
@@ -102,57 +103,55 @@
 |Channel -> |粵語配音連續劇|
 |---|---|
 |【nowTV】絕對不可能～偵探 EP2 (MKV 粵語 繁字幕) HDTV-720P|https://www.tvboxnow.com/thread-7080921-1-1.html|
-|[更新第65集][重溫] (TVB PLUS)《甄嬛傳》[第01~65集][2024-11-15][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6902649-1-1.html|
 |[更新EP12] (ViuTV)《玫瑰公寓 / 장미맨션》- EP01~12  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7061509-1-1.html|
+|[更新EP20(完)][重溫] (翡翠台)《機智女法醫》- EP01~20  [2024-11-06][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7014064-1-1.html|
+|[更新EP40][重溫] (香港開電視) 《光姊妹》- EP01~40  [2024-11-16][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6991391-1-1.html|
 |[更新EP14] (ViuTV) 《犬系戀人 / 오늘도사랑스럽개》- EP01~14  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7057481-1-1.html|
-|[更新EP24]【重溫】(ViuTV)《幽靈醫生 / 고스트 닥터》- EP01~24  [2024-10-09][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6956853-1-1.html|
-|[更新EP15] (香港開電視) 《但願人長久》- EP01~15  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7050386-1-1.html|
 |[更新EP07+08] [重溫] (TVBPlus) 《妻子變成小學生》- EP01~08   [2024-11-11][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7037526-1-1.html|
-|[更新EP08] (ViuTV)《警部補大魔神》- EP01~08  [2024-10-30][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7041479-1-1.html|
+|【nowTV】夜限照相館 EP6 (MKV 粵語 繁字幕) HDTV-720P|https://www.tvboxnow.com/thread-7048901-1-1.html|
+|[更新EP16] (香港開電視) 《但願人長久》- EP01~16  [2024-11-16][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7050386-1-1.html|
+|[更新第65集][重溫] (TVB PLUS)《甄嬛傳》[第01~65集][2024-11-15][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6902649-1-1.html|
 |[更新EP59] [重溫] (TVB PLUS) 《優雅的母女》- EP01~59  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6902298-1-1.html|
 |[更新EP28]【重溫】(ViuTV)《衣袖紅鑲邊 / 옷소매붉은끝동》- EP01~28  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7016313-1-1.html|
-|[更新EP39][重溫] (香港開電視) 《光姊妹》- EP01~39  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6991391-1-1.html|
-|[更新EP07][重溫] (翡翠台)《無心法師》- EP01~07  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7073591-1-1.html|
+|[更新EP31][重溫] (香港開電視) 《會長的愛》- EP01~31  [2024-11-16][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7013358-1-1.html|
 |【nowTV】PICU小兒集中治療室 特別篇 (MKV 粵語 繁字幕) HDTV-720P|https://www.tvboxnow.com/thread-7043983-1-1.html|
-|[更新EP30][重溫] (香港開電視) 《會長的愛》- EP01~30  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7013358-1-1.html|
-|【nowTV】夜限照相館 EP5 (MKV 粵語 繁字幕) HDTV-720P|https://www.tvboxnow.com/thread-7048901-1-1.html|
+|[更新EP24]【重溫】(ViuTV)《幽靈醫生 / 고스트 닥터》- EP01~24  [2024-10-09][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6956853-1-1.html|
+|[更新EP08] (ViuTV)《警部補大魔神》- EP01~08  [2024-10-30][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7041479-1-1.html|
+|[更新EP07][重溫] (翡翠台)《無心法師》- EP01~07  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7073591-1-1.html|
 |[更新EP07+08][重溫] (香港開電視) 《月刊家 / 월간 집/月刊 집》- EP01~08  [2024-11-11][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7039180-1-1.html|
-|【nowTV】犬系戀人 全14集 (MKV 粵語 繁字幕) HDTV-720P|https://www.tvboxnow.com/thread-6970210-1-1.html|
-|【nowTV】完美的結婚公式 全12集 (MKV 粵語 繁字幕) HDTV-720P|https://www.tvboxnow.com/thread-7013158-1-1.html|
-|《經典日劇》沙灘小子 EP2 (MKV 粵語 繁字幕) HDTV-720P|https://www.tvboxnow.com/thread-7022995-1-1.html|
-|[更新EP18] (ViuTV)《讀取惡心的人們 / 악의 마음을 읽는 자들》- EP01~18  [2024-10-03][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6969161-1-1.html|
 
 
 |Channel -> |ViuTV & 奇妙電視 & ATV 綜藝分享區|
 |---|---|
-|[更新EP10] (Viu) 《困獸鬥2.0》- EP01~10  [2024-11-15][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7069442-1-1.html|
-|[更新EP10] (Viu) 《呢度住吓 嗰度住吓》- EP01~10 [2024-11-15][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7069440-1-1.html|
-|[更新EP30] (香港開電視)《煮題COOK 5》- EP01~30  [2024-10-26][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6978617-1-1.html|
-|[更新EP12] (香港開電視)《名廚LUKE印度之旅》- EP01~12  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7055692-1-1.html|
-|[更新EP12] (香港開電視)《我是我生命的傳奇3》- EP01~12  [2024-11-10][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6911347-1-1.html|
-|[更新EP15] (Viu) 《狗仔隊亂入Seoul》- EP01~15 [2024-11-01][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7024954-1-1.html|
-|[更新EP20] (香港開電視)《詹姆士出走料理 S7》- EP01~20  [2024-10-29][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7011690-1-1.html|
-|[更新EP01+02] (香港開電視)《發明王》- EP01~02  [2024-11-10][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7079096-1-1.html|
-|[更新EP14] (香港開電視)《馬田點食記台灣篇》- EP01~14   [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7055544-1-1.html|
+|[更新EP01] (香港開電視)《五星級絲打II》- EP01 [2024-11-16][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7089447-1-1.html|
+|[更新EP01] (香港開電視)《因乜事周圍遊》- EP01  [2024-11-16][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7089446-1-1.html|
+|[更新EP05] (Viu) 《選角》- EP01~05 [2024-11-15][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7081104-1-1.html|
+|[更新EP01~02] (香港開電視)《我們都是追夢人》- EP01~02  [2024-11-11][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7079974-1-1.html|
 |[更新EP01] (香港開電視)《萬物競榮大相嶺》- EP01  [2024-11-11][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7079971-1-1.html|
+|[更新EP01] (香港開電視)《頭等奢華遊》- EP01 [2024-11-10][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7079093-1-1.html|
+|[更新EP01] (香港開電視)《我間屋有嘢睇》- EP01 [2024-11-10][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7079091-1-1.html|
+|[更新EP03] (Viu)《爆谷一周S2》- EP01~03  [2024-11-16][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7064992-1-1.html|
+|[更新EP12] (香港開電視)《名廚LUKE印度之旅》- EP01~12  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7055692-1-1.html|
+|[更新EP15] (香港開電視)《馬田點食記台灣篇》- EP01~15   [2024-11-16][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7055544-1-1.html|
 |(香港開電視)《雲端上的足球夢》- EP01  [2024-11-04][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7067136-1-1.html|
 |[更新EP01~03] (香港開電視)《下一站前海港人北上創業紀事》- EP01~03 [2024-11-04][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7067132-1-1.html|
-|[更新EP09] (香港開電視)《一人一個美味故事》- EP01~09  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7069349-1-1.html|
-|[更新EP01~02] (香港開電視)《我們都是追夢人》- EP01~02  [2024-11-11][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7079974-1-1.html|
-|[更新EP01] (香港開電視)《我間屋有嘢睇》- EP01 [2024-11-10][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7079091-1-1.html|
-|[更新EP01] (香港開電視)《頭等奢華遊》- EP01 [2024-11-10][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7079093-1-1.html|
+|[更新EP10] (香港開電視)《一人一個美味故事》- EP01~10  [2024-11-16][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7069349-1-1.html|
+|[更新EP01+02] (香港開電視)《發明王》- EP01~02  [2024-11-10][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7079096-1-1.html|
 |[更新EP02] (香港開電視)《市場營銷達人》- EP01~02   [2024-11-11][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7079089-1-1.html|
 |[更新EP13] (香港開電視)《企業冒險家》- EP01~13  [2024-11-10][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6911356-1-1.html|
 |[更新EP16] (香港開電視)《創科無極限》- EP01~16  [2024-10-07][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6911351-1-1.html|
 |[更新EP13] (香港開電視)《見招拆招風水局》- EP01~13  [2024-11-11][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6913703-1-1.html|
 |[更新EP12]  (香港開電視)《快樂耆中V》- EP01~12  [2024-11-11][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6931961-1-1.html|
+|[更新EP12] (香港開電視)《我是我生命的傳奇3》- EP01~12  [2024-11-10][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6911347-1-1.html|
+|[更新EP10] (香港開電視)《上海工匠S8》- EP01~10   [2024-11-03][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6911342-1-1.html|
+|[更新EP30] (香港開電視)《煮題COOK 5》- EP01~30  [2024-10-26][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6978617-1-1.html|
 
 
 |Channel -> |ViuTV & HKTV 劇集專區|
 |---|---|
+|[更新EP14] (ViuTV) 《犬系戀人 / 오늘도사랑스럽개》- EP01~14  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7057480-1-1.html|
 |[更新EP12] (ViuTV)《玫瑰公寓 / 장미맨션》- EP01~12  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7061508-1-1.html|
 |[更新EP24]【重溫】(ViuTV)《幽靈醫生 / 고스트 닥터》- EP01~24  [2024-10-09][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6956852-1-1.html|
-|[更新EP14] (ViuTV) 《犬系戀人 / 오늘도사랑스럽개》- EP01~14  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7057480-1-1.html|
 |[更新EP20] (ViuTV)《出租大叔》- EP01~20  [2024-11-08][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7024227-1-1.html|
 |[更新EP28]【重溫】(ViuTV)《衣袖紅鑲邊 / 옷소매붉은끝동》- EP01~28  [2024-11-15][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-7016311-1-1.html|
 |[更新EP34] (ViuTV) 《戀人 / 연인》- EP01~34  [2024-10-29][MP4-720P][粵語配音中字]|https://www.tvboxnow.com/thread-6959236-1-1.html|
@@ -166,14 +165,14 @@
 
 |Channel -> |香港時事節目專區|
 |---|---|
-|[更新11-15] (娛樂新聞台) 《娛樂新聞報道》 [2024-10-31~2024-11-15][MP4-720P][1280x720]|https://www.tvboxnow.com/thread-7063662-1-1.html|
+|[更新11-16] (翡翠台) 《晚間新聞》[2024-10-31~2024-11-16][MP4-480P][粵語中字]|https://www.tvboxnow.com/thread-7063666-1-1.html|
+|[更新11-16] (ViuTV) 《六點半新聞報導》 [2024-10-31~2024-11-16][TV-MP4-720P][1280x720]|https://www.tvboxnow.com/thread-7062629-1-1.html|
+|[更新11-16] (TVB) 《東張西望》 [2024-10-31~2024-11-16][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7062730-1-1.html|
+|[更新11-16] (TVB) 《六點半新聞報導 + 天氣報告 + 新聞檔案 + 財經報導》[2024-10-31~2024-11-16][TV-MP4-720P]|https://www.tvboxnow.com/thread-7062634-1-1.html|
 |[更新11-14+11-15] (TVB) 《流行都市》 [2024-10-31~2024-11-15][MP4-480P][粵語中字]|https://www.tvboxnow.com/thread-7062641-1-1.html|
-|[更新EP03] (翡翠台) 《國慶75周年》- EP01~03  [2024-10-07][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6988057-1-1.html|
-|[更新11-15] (TVB) 《東張西望》 [2024-10-31~2024-11-15][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7062730-1-1.html|
-|[更新11-15] (ViuTV) 《六點半新聞報導》 [2024-10-31~2024-11-15][TV-MP4-720P][1280x720]|https://www.tvboxnow.com/thread-7062629-1-1.html|
-|[更新11-15] (TVB) 《六點半新聞報導 + 天氣報告 + 新聞檔案 + 財經報導》[2024-10-31~2024-11-15][TV-MP4-720P]|https://www.tvboxnow.com/thread-7062634-1-1.html|
-|[更新11-15] (翡翠台) 《晚間新聞》[2024-10-31~2024-11-15][MP4-480P][粵語中字]|https://www.tvboxnow.com/thread-7063666-1-1.html|
+|[更新11-15(FIX)] (娛樂新聞台) 《娛樂新聞報道》 [2024-10-31~2024-11-15][MP4-720P][1280x720]|https://www.tvboxnow.com/thread-7063662-1-1.html|
 |[更新EP09] (鳳凰衛視香港台) 《如果國寶會說話》- EP01~09  [2024-11-11][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6999998-1-1.html|
+|[更新EP03] (翡翠台) 《國慶75周年》- EP01~03  [2024-10-07][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-6988057-1-1.html|
 |[更新EP02] (翡翠台)《邵逸夫獎2024》- EP01~02  [2024-11-10][MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7066226-1-1.html|
 |[更新10-31] (TVB) 《流行都市》 [2024-09-30~2024-10-31][MP4-480P][粵語中字]|https://www.tvboxnow.com/thread-7002601-1-1.html|
 |[更新10-31] (TVB) 《東張西望》 [2024-09-30~2024-10-31][HDTV-MP4-720P][粵語中字]|https://www.tvboxnow.com/thread-7002769-1-1.html|
@@ -181,28 +180,30 @@
 
 |Channel -> |中國大陸 TV 劇集專區|
 |---|---|
-|[珠帘玉幕2024][更至24集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7064166-1-1.html|
+|[女人的反攻2024][全24集]|https://www.tvboxnow.com/thread-7089928-1-1.html|
+|[宿敌2024][更至11集]|https://www.tvboxnow.com/thread-7089932-1-1.html|
+|[南柯梦2024][短剧][更至15集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7076922-1-1.html|
+|[深潜2024][更至10集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7085148-1-1.html|
 |《錦繡安寧2024》全40集. HD1080P.國語中字|https://www.tvboxnow.com/thread-7017736-1-1.html|
-|[永夜星河2024][更至第24集][国语配音/中文字幕][1080P]|https://www.tvboxnow.com/thread-7065148-1-1.html|
+|[探晴安2024][全22集][WEB-MKV/6.09G][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7076910-1-1.html|
+|《你的謊言也動聽2024》全36集. HD1080P.國語中字|https://www.tvboxnow.com/thread-7035516-1-1.html|
+|[珠帘玉幕2024][更至29集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7064166-1-1.html|
+|[永夜星河2024][更至第26集][国语配音/中文字幕][1080P]|https://www.tvboxnow.com/thread-7065148-1-1.html|
+|[大梦归离2024][更至34集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7072682-1-1.html|
+|[失笑2024][更至18集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7076211-1-1.html|
+|[小巷人家2024][更至34集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7074415-1-1.html|
 |[与光同尘2024][全20集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7082039-1-1.html|
 |[我的女官大人2024][全30集国语配音/中文字幕|https://www.tvboxnow.com/thread-7082050-1-1.html|
-|[深潜2024][更至6集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7085148-1-1.html|
-|[大梦归离2024][更至28集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7072682-1-1.html|
-|[失笑2024][更至14集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7076211-1-1.html|
-|[南柯梦2024][短剧][更至13集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7076922-1-1.html|
-|[小巷人家2024][更至32集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7074415-1-1.html|
 |[好团圆2024][全36集][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7072669-1-1.html|
-|《你的謊言也動聽2024》全36集. HD1080P.國語中字|https://www.tvboxnow.com/thread-7035516-1-1.html|
 |《巾幗梟雄之懸崖 粵語2024》全25集. HD1080P.粵語中字|https://www.tvboxnow.com/thread-7038709-1-1.html|
 |[还是很爱她2024][全23集]|https://www.tvboxnow.com/thread-7078711-1-1.html|
 |[婚后热恋2024][全28集国语配音/中文字幕]|https://www.tvboxnow.com/thread-7082034-1-1.html|
-|[探晴安2024][全22集][WEB-MKV/6.09G][国语配音/中文字幕]|https://www.tvboxnow.com/thread-7076910-1-1.html|
 |[还是很爱她2024][第23集][国语配音/中文字幕][|https://www.tvboxnow.com/thread-7082044-1-1.html|
 |《春花焰2024》全32集. HD1080P.國語中字|https://www.tvboxnow.com/thread-7023581-1-1.html|
+|求 聊斋1988年版全集，还有96年98年07年版|https://www.tvboxnow.com/thread-7089908-1-1.html|
 |《流水迢迢2024》全40集. HD1080P.國語中字|https://www.tvboxnow.com/thread-6976732-1-1.html|
+|求劇：央視谍戰劇《宿敵》|https://www.tvboxnow.com/thread-7089462-1-1.html|
 |《流光引2024》全40集. HD1080P.國語中字|https://www.tvboxnow.com/thread-6944004-1-1.html|
-|《捨不得星星2024》全30集. HD1080P.國語中字|https://www.tvboxnow.com/thread-6989213-1-1.html|
-|求: 盜墓筆記之怒海潛沙|https://www.tvboxnow.com/thread-7087208-1-1.html|
 
 
 |Channel -> |英語 TV 劇集專區|
